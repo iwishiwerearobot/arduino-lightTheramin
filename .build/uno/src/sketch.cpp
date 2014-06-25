@@ -1,3 +1,8 @@
+#include <Arduino.h>
+
+void setup();
+void loop();
+#line 1 "src/sketch.ino"
 int sensorValue;
 int sensorLow = 1023;
 int sensorHigh = 0;
